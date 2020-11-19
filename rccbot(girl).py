@@ -204,4 +204,4 @@ async def p(ctx):
 
 
 #プログラムを持久走させる
-bot.run('NjIwNTI0MzA5MTc3MzAzMDQw.XXYCTA.CBXGx6Ou69Lbapj15o6SvDoai_8')
+bot.run('NjIwNTI0MzA5MTc3MzAzMDQw.XXYCTA.1R9xDlb-BuEXXYM383q1wcQ2Xkw')
