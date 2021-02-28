@@ -90,5 +90,5 @@ async def pien(ctx):
    
 
 
-bot.run("NzcwOTIxMjM0Mjc5OTU2NDgw.X5kmWQ.yiZIURZOgtiu-KGH1myXVcmSW8s")
+bot.run("DISCORD_BOT_TOKEN")
 
