@@ -1,2 +1,0 @@
-# rina_bot
-bot
